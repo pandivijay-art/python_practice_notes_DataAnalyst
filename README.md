@@ -1,1 +1,1 @@
-# python_practice_notes_DataAnalyst
+# python_practice_notes_ForDataAnalyst
